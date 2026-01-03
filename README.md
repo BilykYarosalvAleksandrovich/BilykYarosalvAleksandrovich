@@ -36,11 +36,9 @@ Merging **cybercrime investigation** experience from the Prosecutor General's Of
 ---
 ### 🌐 Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/English-A2-blue?style=for-the-badge" alt="English" />
-  <img src="https://img.shields.io/badge/Ukrainian-Native-yellow?style=for-the-badge" alt="Ukrainian" />
-  <img src="https://img.shields.io/badge/German-A1-lightgrey?style=for-the-badge" alt="German" />
-</p>
+![English](https://img.shields.io/badge/English-A2-blue?style=for-the-badge)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=for-the-badge)
+![German](https://img.shields.io/badge/German-A1-lightgrey?style=for-the-badge)
 ---
 *"Coding with legal precision and security as a priority."*
 
