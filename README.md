@@ -5,7 +5,7 @@
   <img src="my-logo.png" alt="My Logo" width="200" />
 </p>
 
-### Cybersecurity Analyst 🛡️ | Full-Stack Developer 💻 | Law Expert ⚖️
+<h3 align="center">Cybersecurity Analyst 🛡️ | Full-Stack Developer 💻 | Law Expert ⚖️</h3>
 
 Merging **cybercrime investigation** experience from the Office of the Prosecutor General with **software engineering** to build secure, semantic, and efficient digital solutions.
 
@@ -25,13 +25,22 @@ Merging **cybercrime investigation** experience from the Office of the Prosecuto
 
 ---
 
-### 📫 Connect with me:
+<h3 align="center">📫 Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/bilyk-yaroslav-aleksandrovich/])
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([https://www.facebook.com/yaroslav.aleksandrovich.bilyk])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[bilyk.yaroslav.aleksandrovich@gmail.com])
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/[BilykYaroslav])
-
+<p align="center">
+  <a href="[https://www.linkedin.com/in/bilyk-yaroslav-aleksandrovich/]">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/[BilykYaroslav]">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="[https://www.facebook.com/yaroslav.aleksandrovich.bilyk]">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a>
+  <a href="mailto:[bilyk.yaroslav.aleksandrovich@gmail.com]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
 *"Coding with legal precision and security as a priority."*
 
