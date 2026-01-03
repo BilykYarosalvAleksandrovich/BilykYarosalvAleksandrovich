@@ -1,4 +1,4 @@
-<div align="center">
+
 ## Hi, I'm Yaroslav Bilyk 👋
 
 <p align="center">
@@ -13,7 +13,7 @@ Merging **cybercrime investigation** experience from the Office of the Prosecuto
 
 ### 🛠️ Tech Stack:
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,docker,html,css,sass,git,github" />
 </p>
 
@@ -35,4 +35,4 @@ Merging **cybercrime investigation** experience from the Office of the Prosecuto
 ---
 *"Coding with legal precision and security as a priority."*
 
-</div>
+
