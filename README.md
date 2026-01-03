@@ -1,7 +1,7 @@
 ## Hi, I'm Yaroslav Bilyk 👋
 
 <p align="center">
-  <img src="logo.png" alt="My Logo" width="200" />
+  <img src="my-logo.png" alt="My Logo" width="200" />
 </p>
 
 ### Cybersecurity Analyst 🛡️ | Full-Stack Developer 💻 | Law Expert ⚖️
