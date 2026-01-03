@@ -1,3 +1,4 @@
+<div align="center">
 ## Hi, I'm Yaroslav Bilyk 👋
 
 <p align="center">
@@ -15,7 +16,6 @@ Merging **cybercrime investigation** experience from the Office of the Prosecuto
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,docker,html,css,sass,git,github" />
 </p>
----
 
 ### 🚀 About Me:
 - 🛡️ **Cybersecurity Analyst:** Countering cybercrimes at the Office of the Prosecutor General.
@@ -34,3 +34,5 @@ Merging **cybercrime investigation** experience from the Office of the Prosecuto
 
 ---
 *"Coding with legal precision and security as a priority."*
+
+</div>
