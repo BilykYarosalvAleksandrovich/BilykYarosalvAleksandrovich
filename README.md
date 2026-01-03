@@ -19,13 +19,10 @@ Merging **cybercrime investigation** experience from the Prosecutor General's Of
 
 ### 🚀 About Me:
 
-**Cybersecurity Analyst:** Countering cybercrimes at the Office of the Prosecutor General.
-
-**Full-Stack Developer:** Building robust applications using the MERN stack (JavaScript, React, Node.js, Next.js).
-
-**GoIT Graduate:** Completed intensive FullStack development training.
-
-**Academic Background:** Master of Laws (KNEU) and Master of Public Administration (NAPA).
+- 🛡️ **Cybersecurity Analyst:** Countering cybercrimes at the Office of the Prosecutor General.
+- 💻 **Full-Stack Developer:** Building robust applications using the MERN stack (JavaScript, React, Node.js, Next.js).
+- 🎓 **GoIT Graduate:** Completed intensive FullStack development training.
+- ⚖️ **Academic Background:** Master of Laws (KNEU) and Master of Public Administration (NAPA).
 
 ---
 
