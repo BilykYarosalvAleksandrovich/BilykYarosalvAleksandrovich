@@ -34,7 +34,14 @@ Merging **cybercrime investigation** experience from the Prosecutor General's Of
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[bilyk.yaroslav.aleksandrovich@gmail.com])
 
 ---
+### 🌐 Languages
 
+<p align="center">
+  <img src="https://img.shields.io/badge/English-A2-blue?style=for-the-badge" alt="English" />
+  <img src="https://img.shields.io/badge/Ukrainian-Native-yellow?style=for-the-badge" alt="Ukrainian" />
+  <img src="https://img.shields.io/badge/German-A1-lightgrey?style=for-the-badge" alt="German" />
+</p>
+---
 *"Coding with legal precision and security as a priority."*
 
 
